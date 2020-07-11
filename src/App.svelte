@@ -15,10 +15,6 @@
 </main>
 
 <style>
-	body {
-		background-color: black;
-	}
-
 	main {
 		width: 100vw;
 		height: 100vh;
@@ -26,6 +22,10 @@
 	}
 
 	h1 {
-		color: gray;
+		color: gold;
+	}
+
+	h2 {
+		color: silver;
 	}
 </style>
